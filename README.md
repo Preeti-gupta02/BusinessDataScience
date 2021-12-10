@@ -11,3 +11,7 @@ A bit of Information Theory. Read Shannon’s 1948 paper ’A Mathematical Theor
 
 Assignment 4 :
 Logistic Regression and CIFAR-10. Multi-class Logistic Regression – Visualizing the Solution, l1 regularizer . Logistic Regression and MNIST, also tried random forests, gradient boosting.
+
+Kaggle Competition: https://www.kaggle.com/c/ut-in-class-challenge-f21
+
+
