@@ -16,7 +16,7 @@ Kaggle Competition: https://www.kaggle.com/c/ut-in-class-challenge-f21
 
 Final Project : The user profile is a persona for a product or service. Gender profiling of unstructured data has several applications in areas such as marketing, advertising, recommendation systems, etc. We can segment the data and understand what drives users, how to attract more users, and how users interact with the service. Now we are going to use the profile information of users on Twitter to predict their gender.
 
-Medium Post : https://medium.com/@preeti.gupta02.pg/twitter-gender-classification-194deaf44ecb. 
+Medium Post : https://medium.com/@preeti.gupta02.pg/twitter-gender-classification-194deaf44ecb <br/>
 youTube videos : https://www.youtube.com/watch?v=63cLQxnnbiI. 
 slides : https://www.canva.com/design/DAEyAd_NZ_0/slxL8W4eY3Wai7U5K3VZxw/viewutm_content=DAEyAd_NZ_0&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton
 
