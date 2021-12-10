@@ -16,7 +16,7 @@ Final Project :<br/> The user profile is a persona for a product or service. Gen
 
 Medium Post : https://medium.com/@preeti.gupta02.pg/twitter-gender-classification-194deaf44ecb <br/>
 youTube videos : https://www.youtube.com/watch?v=63cLQxnnbiI <br/>
-slides : https://www.canva.com/design/DAEyAd_NZ_0/slxL8W4eY3Wai7U5K3VZxw/viewutm_content=DAEyAd_NZ_0&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton
+slides: https://www.canva.com/design/DAEyAd_NZ_0/slxL8W4eY3Wai7U5K3VZxw/viewutm_content=DAEyAd_NZ_0&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton
 
 
 
