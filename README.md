@@ -5,3 +5,6 @@ Understanding Gaussian Distribution. Exploring Python library Pandas. Linear Alg
 Assignment 2 
 Exploring python libraries Pandas and Seaborn, dataframe correlation with these libraries by computing orrelation matrix and pairwise scatter plots.
 Data Whitening. Introduction to Kaggle. https://www.kaggle.com/c/house-prices-advanced-regression-techniques/
+
+Assignment 3: 
+A bit of Information Theory. Read Shannon’s 1948 paper ’A Mathematical Theory of Communication’. Scraping, Entropy and ICML papers. More on Kaggle Advanced Regression. https://www.kaggle.com/c/house-prices-advanced-regression-techniques/
