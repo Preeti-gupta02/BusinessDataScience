@@ -6,8 +6,7 @@ Assignment 2:<br/>
 Exploring python libraries Pandas and Seaborn, dataframe correlation with these libraries by computing orrelation matrix and pairwise scatter plots.
 Data Whitening. Introduction to Kaggle. https://www.kaggle.com/c/house-prices-advanced-regression-techniques/
 
-Assignment 3:<br/>  
-A bit of Information Theory. Read Shannon’s 1948 paper ’A Mathematical Theory of Communication’. Scraping, Entropy and ICML papers. More on Kaggle Advanced Regression. https://www.kaggle.com/c/house-prices-advanced-regression-techniques/
+Assignment 3:<br/>  A bit of Information Theory. Read Shannon’s 1948 paper ’A Mathematical Theory of Communication’. Scraping, Entropy and ICML papers. More on Kaggle Advanced Regression. https://www.kaggle.com/c/house-prices-advanced-regression-techniques/
 
 Assignment 4:<br/> Logistic Regression and CIFAR-10. Multi-class Logistic Regression – Visualizing the Solution, l1 regularizer . Logistic Regression and MNIST, also tried random forests, gradient boosting.
 
